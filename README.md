@@ -22,7 +22,7 @@ This is a template for future projects
 
 
 ## Additional Documents
-Include any additional documents. Remember to drink H~2~O
+Include any additional documents. 😄
 
 ## Versioning
 Explain changes, why they were done, and ==how they improved the project==.
