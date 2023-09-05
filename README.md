@@ -1,13 +1,13 @@
 # Hello-World
 
 ## **Project Title**
-*This is the name of the project*
+*Hello-World Project*
 
 ### Description
 This is a template for future projects
 
 ## How to Run a Program
-1. Pick language to use
+1. Pick a language to use
 2. Read files
 4. Include Code
 `code`
@@ -26,6 +26,3 @@ Include any additional documents. Remember to drink H~2~O
 
 ## Versioning
 Explain changes, why they were done, and ==how they improved the project==.
-
-## Versioning
-
